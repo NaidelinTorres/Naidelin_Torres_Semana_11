@@ -1,17 +1,13 @@
-
+"""Programa 1 para realizar la busqueda en la Matriz"""
 def buscar_numero(matriz, numero):
     """Función que busca un número en una matriz y devuelve su posición."""
-    posiciones = []
+    for fila in range(len(matriz)):  # Recorre filas
+        for columna in range(len(matriz[fila])):  # Recorre columnas
+            if matriz[fila][columna] == numero:
+                return fila, columna # Retorno la posicion (fila , columna)
+    return None # Retorna None si el valor no fue encontrado
 
-    for i in range(len(matriz)):  # Recorre filas
-        for j in range(len(matriz[i])):  # Recorre columnas
-            if matriz[i][j] == numero:
-                posiciones.append((i, j))  # Guarda la posición encontrada
-
-    return posiciones
-
-
-# Definir una matriz de ejemplo
+# Definir una matriz de ejemplo (3x3)
 matriz = [
     [10, 15, 20, 25],
     [30, 35, 40, 45],

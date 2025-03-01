@@ -1,3 +1,5 @@
+"""Programa 2 para realizar la ordenacion en la Matriz"""
+
 def ordenar_matriz(matriz):
     """Función que ordena una matriz de forma ascendente."""
     filas = len(matriz)
@@ -11,9 +13,7 @@ def ordenar_matriz(matriz):
 
     # Reconstruir la matriz con los valores ordenados
     matriz_ordenada = [lista[i * columnas:(i + 1) * columnas] for i in range(filas)]
-
     return matriz_ordenada
-
 
 # Definir una matriz de ejemplo
 matriz = [
