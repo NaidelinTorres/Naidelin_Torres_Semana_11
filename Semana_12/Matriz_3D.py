@@ -6,31 +6,31 @@
 temperaturas = [
     [   # Ciudad 1
         [   # Semana 1
-            {"dia": "Lunes", "temp": 78},
-            {"dia": "Martes", "temp": 80},
-            {"dia": "Miércoles", "temp": 82},
-            {"dia": "Jueves", "temp": 79},
-            {"dia": "Viernes", "temp": 85},
-            {"dia": "Sábado", "temp": 89},
-            {"dia": "Domingo", "temp": 92}
+            {"dia": "Lunes", "temp": 15},
+            {"dia": "Martes", "temp": 20},
+            {"dia": "Miércoles", "temp": 25},
+            {"dia": "Jueves", "temp": 30},
+            {"dia": "Viernes", "temp": 35},
+            {"dia": "Sábado", "temp": 40},
+            {"dia": "Domingo", "temp": 45}
         ],
         [   # Semana 2
-            {"dia": "Lunes", "temp": 76},
-            {"dia": "Martes", "temp": 79},
-            {"dia": "Miércoles", "temp": 83},
-            {"dia": "Jueves", "temp": 81},
-            {"dia": "Viernes", "temp": 87},
-            {"dia": "Sábado", "temp": 89},
-            {"dia": "Domingo", "temp": 93}
+            {"dia": "Lunes", "temp": 12},
+            {"dia": "Martes", "temp": 14},
+            {"dia": "Miércoles", "temp": 16},
+            {"dia": "Jueves", "temp": 18},
+            {"dia": "Viernes", "temp": 20},
+            {"dia": "Sábado", "temp": 22},
+            {"dia": "Domingo", "temp": 24}
         ],
         [   # Semana 3
-            {"dia": "Lunes", "temp": 77},
-            {"dia": "Martes", "temp": 81},
-            {"dia": "Miércoles", "temp": 85},
-            {"dia": "Jueves", "temp": 82},
-            {"dia": "Viernes", "temp": 88},
-            {"dia": "Sábado", "temp": 91},
-            {"dia": "Domingo", "temp": 95}
+            {"dia": "Lunes", "temp": 13},
+            {"dia": "Martes", "temp": 16},
+            {"dia": "Miércoles", "temp": 19},
+            {"dia": "Jueves", "temp": 22},
+            {"dia": "Viernes", "temp": 25},
+            {"dia": "Sábado", "temp": 28},
+            {"dia": "Domingo", "temp": 31}
         ],
         [   # Semana 4
             {"dia": "Lunes", "temp": 75},
@@ -44,85 +44,88 @@ temperaturas = [
     ],
     [   # Ciudad 2
         [   # Semana 1
-            {"dia": "Lunes", "temp": 72},
-            {"dia": "Martes", "temp": 74},
-            {"dia": "Miércoles", "temp": 76},
-            {"dia": "Jueves", "temp": 73},
-            {"dia": "Viernes", "temp": 79},
-            {"dia": "Sábado", "temp": 81},
-            {"dia": "Domingo", "temp": 85}
+            {"dia": "Lunes", "temp": 20},
+            {"dia": "Martes", "temp": 21},
+            {"dia": "Miércoles", "temp": 22},
+            {"dia": "Jueves", "temp": 23},
+            {"dia": "Viernes", "temp": 24},
+            {"dia": "Sábado", "temp": 25},
+            {"dia": "Domingo", "temp": 26}
         ],
         [   # Semana 2
-            {"dia": "Lunes", "temp": 70},
-            {"dia": "Martes", "temp": 72},
-            {"dia": "Miércoles", "temp": 74},
-            {"dia": "Jueves", "temp": 71},
-            {"dia": "Viernes", "temp": 77},
-            {"dia": "Sábado", "temp": 79},
-            {"dia": "Domingo", "temp": 83}
+            {"dia": "Lunes", "temp": 16},
+            {"dia": "Martes", "temp": 15},
+            {"dia": "Miércoles", "temp": 14},
+            {"dia": "Jueves", "temp": 13},
+            {"dia": "Viernes", "temp": 12},
+            {"dia": "Sábado", "temp": 11},
+            {"dia": "Domingo", "temp": 10}
         ],
         [   # Semana 3
-            {"dia": "Lunes", "temp": 71},
-            {"dia": "Martes", "temp": 75},
-            {"dia": "Miércoles", "temp": 78},
-            {"dia": "Jueves", "temp": 76},
-            {"dia": "Viernes", "temp": 80},
-            {"dia": "Sábado", "temp": 82},
-            {"dia": "Domingo", "temp": 86}
+            {"dia": "Lunes", "temp": 22},
+            {"dia": "Martes", "temp": 20},
+            {"dia": "Miércoles", "temp": 18},
+            {"dia": "Jueves", "temp": 16},
+            {"dia": "Viernes", "temp": 14},
+            {"dia": "Sábado", "temp": 12},
+            {"dia": "Domingo", "temp": 10}
         ],
         [   # Semana 4
-            {"dia": "Lunes", "temp": 69},
-            {"dia": "Martes", "temp": 71},
-            {"dia": "Miércoles", "temp": 73},
-            {"dia": "Jueves", "temp": 72},
-            {"dia": "Viernes", "temp": 78},
-            {"dia": "Sábado", "temp": 80},
-            {"dia": "Domingo", "temp": 84}
+            {"dia": "Lunes", "temp": 45},
+            {"dia": "Martes", "temp": 40},
+            {"dia": "Miércoles", "temp": 35},
+            {"dia": "Jueves", "temp": 30},
+            {"dia": "Viernes", "temp": 25},
+            {"dia": "Sábado", "temp": 20},
+            {"dia": "Domingo", "temp": 15}
         ]
     ],
     [   # Ciudad 3
         [   # Semana 1
-            {"dia": "Lunes", "temp": 90},
-            {"dia": "Martes", "temp": 92},
-            {"dia": "Miércoles", "temp": 94},
-            {"dia": "Jueves", "temp": 91},
-            {"dia": "Viernes", "temp": 95},
-            {"dia": "Sábado", "temp": 98},
-            {"dia": "Domingo", "temp": 100}
+            {"dia": "Lunes", "temp": 49},
+            {"dia": "Martes", "temp": 26},
+            {"dia": "Miércoles", "temp": 53},
+            {"dia": "Jueves", "temp": 25},
+            {"dia": "Viernes", "temp": 34},
+            {"dia": "Sábado", "temp": 23},
+            {"dia": "Domingo", "temp": 12}
         ],
         [   # Semana 2
-            {"dia": "Lunes", "temp": 88},
-            {"dia": "Martes", "temp": 90},
-            {"dia": "Miércoles", "temp": 92},
-            {"dia": "Jueves", "temp": 89},
-            {"dia": "Viernes", "temp": 93},
-            {"dia": "Sábado", "temp": 96},
-            {"dia": "Domingo", "temp": 99}
+            {"dia": "Lunes", "temp": 38},
+            {"dia": "Martes", "temp": 34},
+            {"dia": "Miércoles", "temp": 30},
+            {"dia": "Jueves", "temp": 26},
+            {"dia": "Viernes", "temp": 22},
+            {"dia": "Sábado", "temp": 18},
+            {"dia": "Domingo", "temp": 14}
         ],
         [   # Semana 3
-            {"dia": "Lunes", "temp": 89},
-            {"dia": "Martes", "temp": 91},
-            {"dia": "Miércoles", "temp": 93},
-            {"dia": "Jueves", "temp": 92},
-            {"dia": "Viernes", "temp": 94},
-            {"dia": "Sábado", "temp": 97},
-            {"dia": "Domingo", "temp": 101}
+            {"dia": "Lunes", "temp": 25},
+            {"dia": "Martes", "temp": 23},
+            {"dia": "Miércoles", "temp": 21},
+            {"dia": "Jueves", "temp": 19},
+            {"dia": "Viernes", "temp": 17},
+            {"dia": "Sábado", "temp": 15},
+            {"dia": "Domingo", "temp": 13}
         ],
         [   # Semana 4
-            {"dia": "Lunes", "temp": 87},
-            {"dia": "Martes", "temp": 89},
-            {"dia": "Miércoles", "temp": 91},
-            {"dia": "Jueves", "temp": 90},
-            {"dia": "Viernes", "temp": 92},
-            {"dia": "Sábado", "temp": 95},
-            {"dia": "Domingo", "temp": 98}
+            {"dia": "Lunes", "temp": 70},
+            {"dia": "Martes", "temp": 60},
+            {"dia": "Miércoles", "temp": 50},
+            {"dia": "Jueves", "temp": 40},
+            {"dia": "Viernes", "temp": 30},
+            {"dia": "Sábado", "temp": 20},
+            {"dia": "Domingo", "temp": 10}
         ]
     ]
 ]
 
-# Calcular el promedio de las temperaturas para cada ciudad y cada semana
+# Escogemos los nombres de las ciudades
+ciudades = [ "Manabi", "Ambato", "Machala"]
+
+# Calcular el promedio de temperaturas para cada ciudad y cada semana
 for i, ciudad in enumerate(temperaturas):
-    print(f"\nCiudad {i + 1}:")
+    print(f"\nCiudad {ciudades[i]}:")
     for j, semana in enumerate(ciudad):
         suma = sum(dia['temp'] for dia in semana)
         promedio = suma / len(semana)
