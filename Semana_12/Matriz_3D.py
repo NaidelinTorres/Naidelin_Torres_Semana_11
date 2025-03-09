@@ -11,7 +11,7 @@ temperaturas = [
             {"dia": "Miércoles", "temp": 82},
             {"dia": "Jueves", "temp": 79},
             {"dia": "Viernes", "temp": 85},
-            {"dia": "Sábado", "temp": 88},
+            {"dia": "Sábado", "temp": 89},
             {"dia": "Domingo", "temp": 92}
         ],
         [   # Semana 2
