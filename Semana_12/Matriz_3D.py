@@ -1,8 +1,8 @@
-# Creamos una matriz 3D para almacenar las temperaturas
+# Creamos una matriz 3D para almacenar las temperaturas de las ciudades
 
-# Primera dimensión: 3 Ciudades
-# Segunda dimensión: Días de la semana (7 días)
-# Tercera dimensión: Semanas (4 semanas)
+# La Primera dimensión es de : 3 Ciudades
+# La Segunda dimensión es de : Días de la semana (7 días)
+# La Tercera dimensión es de : 4 Semanas
 temperaturas = [
     [   # Ciudad 1
         [   # Semana 1
