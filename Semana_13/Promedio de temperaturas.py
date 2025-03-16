@@ -1,4 +1,4 @@
-# Función para calcular el promedio de temperaturas de una semana
+# Función para calcular el promedio de temperaturas de cada semana
 def calcular_promedio(semana):
     suma = sum(dia['temp'] for dia in semana)
     promedio = suma / len(semana)
