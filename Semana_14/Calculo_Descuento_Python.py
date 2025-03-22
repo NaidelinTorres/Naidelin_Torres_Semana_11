@@ -31,3 +31,4 @@ print(f"Monto total: ${monto_1:.2f} ; Descuento: ${descuento_1:.2f} ; Monto fina
 descuento_2 = calcular_descuento(monto_2)
 monto_final_2 = monto_2 - descuento_2  # Se define correctamente el monto final
 print(f"Monto total: ${monto_2:.2f} ; Descuento: ${descuento_2:.2f} ; Monto final: ${monto_final_2:.2f}")
+
