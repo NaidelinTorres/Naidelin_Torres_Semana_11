@@ -20,13 +20,13 @@ monto_1 = 350
 monto_2 = 400
 decuento_personalizado = 30
 
-# Se calcula el primer descuento por defecto
+# Se calcula el primer descuento
 
 descuento_1= calcular_descuento(monto_1)
 monto_final_1 = monto_1 - descuento_1 # Se define correctamente el monto final
 print(f"Monto total: ${monto_1:.2f} ; Descuento: ${descuento_1:.2f} ; Monto final: ${monto_final_1:.2f}")
 
-# Se calcula el segundo descuento personalizado
+# Se calcula el segundo descuento
 
 descuento_2 = calcular_descuento(monto_2)
 monto_final_2 = monto_2 - descuento_2  # Se define correctamente el monto final
