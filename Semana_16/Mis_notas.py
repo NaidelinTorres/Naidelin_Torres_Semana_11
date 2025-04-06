@@ -24,3 +24,4 @@ while linea:
 # Cerramos el archivo después de leer mis notas personales
 archivo.close()
 
+
