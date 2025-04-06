@@ -3,10 +3,10 @@
 archivo = open("my_notes.txt", "w")
 
 # Escribimos tres líneas de notas personales
-archivo.write("Mi nombre es Naidelin Torres")
-archivo.write("En este dia estoy aprendiendo a trabajar con archivos de texto en Python.\n")
-archivo.write("Estoy practicando y aprendiendo sobre la escritura y lectura de archivos.\n")
-archivo.write("Es muy importante cerrar todos los archivos después de usarlos.\n")
+archivo.write("Mi nombre es Naidelin Torres. \n")
+archivo.write("En este dia estoy aprendiendo a trabajar con archivos de texto en Python. \n")
+archivo.write("Estoy practicando y aprendiendo sobre la escritura y lectura de archivos. \n")
+archivo.write("Es muy importante cerrar todos los archivos después de usarlos. \n")
 
 # Cerramos el archivo después de escribir nuestras notas personales
 archivo.close()
